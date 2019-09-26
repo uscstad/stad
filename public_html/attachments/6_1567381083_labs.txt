@@ -1,0 +1,30 @@
+milan.reyes@theenglishlaboratory.com
+ty13kOcgfMH0
+
+jose.quinones@theenglishlaboratory.com
+NqbqJ2FNYYYt
+
+
+611
+
+ssh -p 65002 u780342353@185.201.10.115
+
+Ck5c8xd68n8q
+
+curl -sS https://getcomposer.org/installer | php -- --install-dir=bin
+
+
+bd:   u780342353_tel
+root: u780342353_tel
+pass: 6tqnB6FuDIHP
+
+bd:   u780342353_theel
+root: u780342353_theel
+pass: wQnXicc9NEE7
+
+ip: sql177.main-hosting.eu
+port: 3306
+user: u780342353_theel
+pass: wQnXicc9NEE7 
+
+186.115.228.119
